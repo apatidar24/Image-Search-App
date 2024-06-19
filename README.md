@@ -1,0 +1,1 @@
+A responsive image search app built with HTML, CSS, and JavaScript leverages the Unsplash API to deliver stunning, high-quality images. It features a user-friendly interface, seamless navigation, and real-time search capabilities, ensuring users can easily find and view images across all devices.
